@@ -7,7 +7,7 @@
         <h1>Brian Shin</h1>
         <h2>some catchy tagline</h2>
         <?php
-            echo "<p>Here's a list of a couple fibonacci numbers!</p>"
+            echo "<p>Here's a list of a couple fibonacci numbers!</p>";
             $i = 0;
             $j = 1;
             while ($j < 1000) {
