@@ -6,8 +6,8 @@
     </head>
     <body>
         <div class="header">
-            <h1>Brian Shin</h1>
-            <h2>some catchy tagline</h2>
+            <h1 class="brand-title">Brian Shin</h1>
+            <h2 class="brand-tagline">some catchy tagline</h2>
         </div>
         <?php
             echo "<p>Here's a list of a couple fibonacci numbers!</p>";
