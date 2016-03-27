@@ -5,8 +5,10 @@
         <title>Brian Shin</title>
     </head>
     <body>
-        <h1>Brian Shin</h1>
-        <h2>some catchy tagline</h2>
+        <div class="header">
+            <h1>Brian Shin</h1>
+            <h2>some catchy tagline</h2>
+        </div>
         <?php
             echo "<p>Here's a list of a couple fibonacci numbers!</p>";
             echo "<p>";
