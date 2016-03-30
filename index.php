@@ -11,16 +11,16 @@
             <div class="container">
                 <div class="pull-left">
                     <ul>
-                        <li>Home</li>
-                        <li>Blog</li>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Blog</a></li>
                     </ul>
                 </div>
 
                 <div class="pull-right">
                     <ul>
-                        <li>asdfa</li>
-                        <li>asdfas</li>
-                        <li>sdfdsasdf</li>
+                        <li><a href="#">asdfa</a></li>
+                        <li><a href="#">asdfas</a></li>
+                        <li><a href="#">sdfdsasdf</a></li>
                     </ul>
                 </div>
             </div>
