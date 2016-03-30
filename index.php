@@ -12,12 +12,12 @@
         <!-- Navigation bar -->
         <div class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
-                <ul class="nav nav-left">
+                <ul class="nav navbar-nav navbar-left">
                     <li><a href="#">Home</a></li>
                     <li><a href="#">Blog</a></li>
                 </ul>
 
-                <ul class="nav nav-right">
+                <ul class="nav navbar-nav navbar-right">
                     <li><a href="#">asdfa</a></li>
                     <li><a href="#">asdfas</a></li>
                     <li><a href="#">sdfdsasdf</a></li>
