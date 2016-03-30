@@ -1,3 +1,5 @@
 favicon.ico
 error_log
-
+cgi-bin/
+.htaccess
+php.ini
