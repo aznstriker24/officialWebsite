@@ -5,7 +5,7 @@
         <title>Home | Brian Shin</title>
     </head>
     <body>
-        <nav class="nav">
+        <div class="nav">
             <div class="pull-left">
                 <ul>
                     <li>Home</li>
@@ -20,7 +20,7 @@
                     <li>sdfdsasdf</li>
                 </ul>
             </div>
-        </nav>
+        </div>
 
         <header>
             <h1>Brian Shin</h1>
