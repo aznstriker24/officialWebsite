@@ -7,7 +7,7 @@
     </head>
     <body>
         <!-- Navigation bar -->
-        <div class="nav">
+        <div class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
                 <ul class="pull-left">
                     <li><a href="#">Home</a></li>
