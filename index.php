@@ -18,20 +18,21 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">asdfasdf</a>
+                    <a class="navbar-brand" href="#">Brian Shin</a>
                 </div>
 
+                <div class="collapse navbar-collapse" id="navbar-collapse">
+                    <ul class="nav navbar-nav navbar-left">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Blog</a></li>
+                    </ul>
 
-                <ul class="nav navbar-nav navbar-left">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Blog</a></li>
-                </ul>
-
-                <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#">asdfa</a></li>
-                    <li><a href="#">asdfas</a></li>
-                    <li><a href="#">sdfdsasdf</a></li>
-                </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#">asdfa</a></li>
+                        <li><a href="#">asdfas</a></li>
+                        <li><a href="#">sdfdsasdf</a></li>
+                    </ul>
+                </div>
             </div>
         </div>
 
