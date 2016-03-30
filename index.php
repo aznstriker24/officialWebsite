@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
         <link rel="stylesheet" href="main.css">
+
         <title>Home | Brian Shin</title>
     </head>
     <body>
@@ -49,5 +52,9 @@
                 </div>
             </div>
         </div>
+
+        <!-- idk wtf jquery? wtf -->
+        <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+        <script src=”js/bootstrap.js”></script>
     </body>
 </html>
