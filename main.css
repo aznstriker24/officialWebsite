@@ -2,6 +2,10 @@
     display: inline;
 }
 
+.navbar a {
+    padding: 14px 10px;
+}
+
 .jumbotron {
     height: 500px;
 }
