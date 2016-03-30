@@ -7,6 +7,10 @@
     display: inline;
 }
 
+.jumbotron {
+    height: 500px;
+}
+
 .jumbotron .container {
     position: relative;
     top: 100px;
