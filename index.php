@@ -7,22 +7,18 @@
     </head>
     <body>
         <!-- Navigation bar -->
-        <div class="nav nav-tabs">
+        <div class="nav">
             <div class="container">
-                <div class="pull-left">
-                    <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Blog</a></li>
-                    </ul>
-                </div>
+                <ul class="pull-left">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Blog</a></li>
+                </ul>
 
-                <div class="pull-right">
-                    <ul>
-                        <li><a href="#">asdfa</a></li>
-                        <li><a href="#">asdfas</a></li>
-                        <li><a href="#">sdfdsasdf</a></li>
-                    </ul>
-                </div>
+                <ul class="pull-right">
+                    <li><a href="#">asdfa</a></li>
+                    <li><a href="#">asdfas</a></li>
+                    <li><a href="#">sdfdsasdf</a></li>
+                </ul>
             </div>
         </div>
 
