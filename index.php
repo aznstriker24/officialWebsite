@@ -7,7 +7,7 @@
     </head>
     <body>
         <!-- Navigation bar -->
-        <div class="nav">
+        <div class="nav nav-tabs">
             <div class="container">
                 <div class="pull-left">
                     <ul>
