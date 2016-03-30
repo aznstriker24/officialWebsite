@@ -23,14 +23,13 @@
 
                 <div class="collapse navbar-collapse" id="navbar-collapse">
                     <ul class="nav navbar-nav navbar-left">
-                        <li><a href="#">Home</a></li>
                         <li><a href="#">Blog</a></li>
                     </ul>
 
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="#">asdfa</a></li>
-                        <li><a href="#">asdfas</a></li>
-                        <li><a href="#">sdfdsasdf</a></li>
+                        <li><a href="https://www.instagram.com/aznstriker24">Instagram</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Contact</a></li>
                     </ul>
                 </div>
             </div>
