@@ -1,17 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
-        <title>Brian Shin</title>
+        <title>Home | Brian Shin</title>
     </head>
     <body>
-        <div class="sidebar">
-            <div class="header">
-                <h1 class="brand-title">Brian Shin</h1>
-                <h2 class="brand-tagline">some catchy tagline</h2>
-            </div>
-        </div>
+
+
         <?php
             echo "<p>Here's a list of a couple fibonacci numbers!</p>";
             echo "<p>";
@@ -24,11 +18,5 @@
             }
             echo "</p>";
         ?>
-
-        <div class="pure-g">
-            <div class="pure-u-1-3"><p>Thirds</p></div>
-            <div class="pure-u-1-3"><p>Thirds</p></div>
-            <div class="pure-u-1-3"><p>Thirds</p></div>
-        </div>
     </body>
 </html>
