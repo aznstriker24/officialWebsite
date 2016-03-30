@@ -10,14 +10,14 @@
     </head>
     <body>
         <!-- Navigation bar -->
-        <div class="nav navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
-                <ul class="pull-left">
+                <ul class="nav nav-left">
                     <li><a href="#">Home</a></li>
                     <li><a href="#">Blog</a></li>
                 </ul>
 
-                <ul class="pull-right">
+                <ul class="nav nav-right">
                     <li><a href="#">asdfa</a></li>
                     <li><a href="#">asdfas</a></li>
                     <li><a href="#">sdfdsasdf</a></li>
