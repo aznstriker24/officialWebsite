@@ -3,10 +3,11 @@
 }
 
 .jumbotron {
-    height: 500px;
+    height: 480px;
+    background-image: url("img/cover_photo_cropped.jpg");
 }
 
 .jumbotron .container {
     position: relative;
-    top: 100px;
+    /*top: 100px;*/
 }
