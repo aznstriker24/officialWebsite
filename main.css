@@ -4,13 +4,16 @@
 
 .jumbotron {
     height: 480px;
+
+    /*
     background-image: url("img/cover_photo_cropped.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    */
 }
 
 .jumbotron .container {
     position: relative;
-    /*top: 100px;*/
+    top: 100px;
 }
