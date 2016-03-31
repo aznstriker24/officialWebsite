@@ -7,7 +7,7 @@
     background-image: url("img/cover_photo_cropped.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 
 .jumbotron .container {
