@@ -18,19 +18,19 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">Brian Shin</a>
+                    <a class="navbar-brand" href="">Brian Shin</a>
                 </div>
 
                 <div class="collapse navbar-collapse" id="navbar-collapse">
                     <ul class="nav navbar-nav navbar-left">
-                        <li><a href="#">Blog</a></li>
+                        <li><a href="#" class="disabled">Blog</a></li>
                     </ul>
 
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="https://www.instagram.com/aznstriker24">Instagram</a></li>
                         <li><a href="https://www.github.com/aznstriker24">GitHub</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="#" class="disabled">About</a></li>
+                        <li><a href="#" class="disabled">Contact</a></li>
                     </ul>
                 </div>
             </div>
