@@ -38,7 +38,7 @@
         </div>
 
         <!-- Jumbotron!! -->
-        <div class="hero-unit">
+        <div class="jumbotron">
             <div class="container">
                 <h1>Brian Shin</h1>
                 <h2>just another nerd</h2>
