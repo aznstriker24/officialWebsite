@@ -4,15 +4,8 @@
 
 .jumbotron {
     height: 480px;
-    background: linear-gradient(to bottom right, #6441A5 , #2a0845);
+    background: linear-gradient(to bottom right, #6441A5 , #2a0845); /* courtesy of uiGradients.com */
     color: #e6e6e6;
-
-    /*
-    background-image: url("img/cover_photo_cropped.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    */
 }
 
 .jumbotron .container {
