@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
@@ -37,7 +38,7 @@
         </div>
 
         <!-- Jumbotron!! -->
-        <div class="jumbotron">
+        <div class="hero-unit">
             <div class="container">
                 <h1>Brian Shin</h1>
                 <h2>just another nerd</h2>
