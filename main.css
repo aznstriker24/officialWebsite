@@ -4,7 +4,7 @@
 
 .jumbotron {
     height: 480px;
-    background: background: linear-gradient(0deg, #6441A5 , #2a0845);
+    background: linear-gradient(to bottom right, #6441A5 , #2a0845);
     color: #e6e6e6;
 
     /*
