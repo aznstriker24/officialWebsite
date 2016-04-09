@@ -1,11 +1,23 @@
+/*  COLOR SCHEME
+    MAIN: #30E8BF (light blue)
+    ACCENT 1: #FB3453 (light red)
+    ACCENT 2: #FFB335 (orangey)
+    LIGHT GREY: #E6F8F4
+    DARK GREY: #414A48
+    WHITE: #FFFFFF  */
+
+body {
+    color: #414A48;
+}
+
 .navbar li {
     display: inline;
 }
 
 .jumbotron {
     height: 480px;
-    background: linear-gradient(to bottom right, #6441A5 , #2a0845); /* courtesy of uiGradients.com */
-    color: #e6e6e6;
+    background: #30E8BF;
+    color: #FFFFFF;
 }
 
 .jumbotron .container {
