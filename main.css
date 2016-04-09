@@ -25,6 +25,10 @@ body {
     text-align: center;
 }
 
+.jumbotron h1 {
+    font-weight: bold;
+}
+
 .jumbotron .container {
     position: relative;
     top: 100px;
