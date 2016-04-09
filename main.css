@@ -6,6 +6,10 @@
     DARK GREY: #414A48
     WHITE: #FFFFFF  */
 
+.navbar {
+    background: #414A48;
+}
+
 body {
     color: #414A48;
 }
@@ -24,8 +28,4 @@ body {
 .jumbotron .container {
     position: relative;
     top: 100px;
-}
-
-.row .col-md-4 {
-    background: #F0F9F7;
 }
