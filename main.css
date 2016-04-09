@@ -26,6 +26,6 @@ body {
     top: 100px;
 }
 
-.row .container {
+.row .col-md-4 {
     background: #E6F8F4;
 }
