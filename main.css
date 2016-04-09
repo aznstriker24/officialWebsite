@@ -20,7 +20,7 @@ body {
 
 .jumbotron {
     height: 480px;
-    background: #30E8BF;
+    background: linear-gradient( 45deg, #30E8BF, #8BF0DA);
     color: #FFFFFF;
     text-align: center;
 }
