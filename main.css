@@ -8,11 +8,10 @@
 
 .navbar {
     background: #414A48;
-    color: #FFFFFF;
 }
 
-.navbar a {
-    color: #FFFFFF;
+.navbar-header {
+    color: #FB3453;
 }
 
 body {
