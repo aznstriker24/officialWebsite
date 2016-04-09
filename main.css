@@ -2,7 +2,7 @@
     MAIN: #30E8BF (light blue)
     ACCENT 1: #FB3453 (light red)
     ACCENT 2: #FFB335 (orangey)
-    LIGHT GREY: #E6F8F4
+    LIGHT GREY: #F0F9F7
     DARK GREY: #414A48
     WHITE: #FFFFFF  */
 
@@ -27,5 +27,5 @@ body {
 }
 
 .row .col-md-4 {
-    background: #E6F8F4;
+    background: #F0F9F7;
 }
