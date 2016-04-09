@@ -25,3 +25,7 @@ body {
     position: relative;
     top: 100px;
 }
+
+.row .container {
+    background: #E6F8F4
+}
