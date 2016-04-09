@@ -17,10 +17,8 @@ body {
 .jumbotron {
     height: 480px;
     background: #30E8BF;
-}
-
-.jumbotron h1 {
     color: #FFFFFF;
+    text-align: center;
 }
 
 .jumbotron .container {
