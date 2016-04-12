@@ -1,18 +1,18 @@
 /*  COLOR SCHEME
-    MAIN: #30E8BF (light blue)
-    ACCENT 1: #FB3453 (light red)
-    ACCENT 2: #FFB335 (orangey)
-    LIGHT GREY: #F0F9F7
-    DARK GREY: #414A48
+    MAIN: #16C72C (GREEN)
+    ACCENT: #13919D (BLUE)
+    secondary ACCENT: #A2ED1A;
+    LIGHT GREY: #e8fcea
+    DARK GREY: #031705
     WHITE: #FFFFFF  */
 
 .navbar {
-    background: #414A48;
+    background: #031705;
 }
 
 body {
-    color: #414A48;
-    background: #F0F9F7;
+    color: #031705;
+    background: #e8fcea;
 }
 
 .navbar li {
@@ -21,9 +21,13 @@ body {
 
 .jumbotron {
     height: 480px;
-    background: linear-gradient( 45deg, #30E8BF, #C8F6EB);
+    background: linear-gradient(45deg, #16C72C, #A2ED1A);
     color: #FFFFFF;
     text-align: center;
+}
+
+.jumbotron h1 {
+    letter-spacing: 0.2em;
 }
 
 .jumbotron .container {
