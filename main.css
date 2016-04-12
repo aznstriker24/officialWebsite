@@ -3,15 +3,11 @@
     ACCENT: #13919D (BLUE)
     secondary ACCENT: #A2ED1A;
     LIGHT GREY: #e8fcea
-    DARK GREY: #031705
+    DARK GREY: #062d0a
     WHITE: #FFFFFF  */
 
-.navbar {
-    background: #031705;
-}
-
 body {
-    color: #031705;
+    color: #062d0a;
     background: #e8fcea;
 }
 
@@ -20,14 +16,16 @@ body {
 }
 
 .jumbotron {
-    height: 480px;
+    height: 400px;
     background: linear-gradient(45deg, #16C72C, #A2ED1A);
     color: #FFFFFF;
     text-align: center;
 }
 
 .jumbotron h1 {
+    text-transform: uppercase;
     letter-spacing: 0.2em;
+    word-spacing: 0.2em;
 }
 
 .jumbotron .container {
