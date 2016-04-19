@@ -9,6 +9,7 @@
 body {
     color: #062d0a;
     background: #e8fcea;
+    margin-bottom: 60px;
 }
 
 .navbar li {
@@ -38,6 +39,6 @@ body {
 }
 
 .footer {
-    
+
     text-align: center;
 }
