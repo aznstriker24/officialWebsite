@@ -38,7 +38,8 @@ body {
 }
 
 .footer {
-    margin: 100px;
-    padding: 100px;
+    background: #FFFFFF;
+    margin: 10px;
+    padding: 10px;
     text-align: center;
 }
