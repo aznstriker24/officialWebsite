@@ -48,5 +48,6 @@ body {
     text-align: center;
     top: 50%;
     height: 50px;
-    background: #ffffff;
+    background: #000000;
+    color: #ffffff;
 }
