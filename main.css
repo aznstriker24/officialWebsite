@@ -38,6 +38,7 @@ body {
 }
 
 .footer {
-    height: 100px;
+    margin: 100px;
+    padding: 100px;
     text-align: center;
 }
