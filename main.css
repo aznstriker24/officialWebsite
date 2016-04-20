@@ -38,12 +38,12 @@ body {
 }
 
 .footer {
+    height: 50%;
     margin: 10px;
     padding: 10px;
     text-align: center;
 }
 
 .footer .container {
-    height: 50%;
     background: #ffffff;
 }
