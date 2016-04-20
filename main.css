@@ -37,7 +37,7 @@ body {
     background: #FFFFFF;
 }
 
-.footer > .container {
+.footer .container {
     height: 50%;
     background: #ffffff;
     margin: 10px;
