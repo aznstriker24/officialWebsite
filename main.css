@@ -37,12 +37,10 @@ body {
     background: #FFFFFF;
 }
 
-.footer {
+.footer > .container {
+    height: 50%;
+    background: #ffffff;
     margin: 10px;
     padding: 10px;
     text-align: center;
-}
-
-.footer > .container {
-    background: #ffffff;
 }
